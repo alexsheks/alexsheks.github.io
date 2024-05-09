@@ -5,6 +5,4 @@ categories: [news]
 tags: [news]
 ---
 
-# Welcome to our blog!
-
 This is our little blog where we share ideas and experience. New articles and updates will be soon to delivered. Keep in touch!
